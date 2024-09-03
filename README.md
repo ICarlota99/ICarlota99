@@ -1,8 +1,6 @@
 # 💫 About Me:
 - 🔭 Working on personal proyects
 - 🌱 Learning to code
-- 📫 How to reach me: k431999@gmail.com
-- 😄 Pronouns: she/her
 
 
 # 💻 Tech Stack:
