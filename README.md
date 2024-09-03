@@ -1,6 +1,8 @@
 # Hi There, I'm Char - aka ICarlota99
 
-# 💫 I'm a Trainee Developer:
+<br />
+
+## 💫 I'm a Trainee Developer:
 - 🔭 I'm currently working on personal proyects
 - 🌱 I'm currently learning to code
 - 👯 I'm looking to collaborate with other content creators
@@ -18,7 +20,7 @@
 <a href="https://github.com/ICarlota99/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&layout=pie&show_icons=true&theme=react" />
 </a>
-<br />
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ICarlota99&theme=react&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
