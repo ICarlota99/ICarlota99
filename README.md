@@ -1,6 +1,11 @@
-# 💫 About Me:
-- 🔭 Working on personal proyects
-- 🌱 Learning to code
+# Hi There, I'm Char - aka ICarlota99
+
+# 💫 I'm a Trainee Developer:
+- 🔭 I'm currently working on personal proyects
+- 🌱 I'm currently learning to code
+- 👯 I'm looking to collaborate with other content creators
+- 2024 Goals: Become a Junior Developer
+- ⚡️ Fun fact: I'm also a physician and I really love coffee
 
 
 # 💻 Tech Stack:
