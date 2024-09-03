@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 Working on personal proyects
 - 🌱 Learning to code
-- 📫 How to reach me: k43@gmail.com
+- 📫 How to reach me: k431999@gmail.com
 - 😄 Pronouns: she/her
 
 
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ICarlota99&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ICarlota99&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
