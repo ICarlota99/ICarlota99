@@ -11,15 +11,14 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-dusky-rho.vercel.app/api?username=ICarlota99&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ICarlota99&theme=react&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&show_icons=true&theme=react)](https://github.com/ICarlota99/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&layout=pie&show_icons=true&theme=react)](https://github.com/ICarlota99/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ICarlota99&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ICarlota99&theme=react&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ICarlota99&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ICarlota99&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ICarlota99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
