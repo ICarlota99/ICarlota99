@@ -13,13 +13,9 @@
   <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api?username=ICarlota99&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
 </a>
 <a href="https://github.com/ICarlota99/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&layout=pie&show_icons=true&theme=react)](https://github.com/ICarlota99/github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&layout=pie&show_icons=true&theme=react)](https://github.com/ICarlota99/github-readme-stats)" />
 </a>
-
-
-![](https://github-readme-stats-dusky-rho.vercel.app/api?username=ICarlota99&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ICarlota99&theme=react&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&layout=pie&show_icons=true&theme=react)](https://github.com/ICarlota99/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ICarlota99&theme=react&no-frame=false&no-bg=false&margin-w=4)
