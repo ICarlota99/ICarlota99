@@ -1,4 +1,4 @@
-![ICarlota's GitHub stats](https://github-readme-stats.vercel.app/api?username=icarlota99&show_icons=true&theme=transparent)
+[!ICarlota's GitHub stats](https://github-readme-stats.vercel.app/api?username=icarlota99)](https://github.com/icarlota99/github-readme-stats)
 
 # 💫 About Me:
 - 🔭 Working on personal proyects
