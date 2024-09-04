@@ -1,4 +1,4 @@
-# Hi There, I'm Char - aka ICarlota99 👋
+# 👋 Hi There, I'm Char - aka ICarlota99 👩🏻‍💻
 
 ## 💻 Trainee developer learning the ropes of the tech world. Excited to connect and learn from others!
 - 🔭 I'm currently working on personal projects
