@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on personal projects
 - 🌱 I'm currently learning to code
 - 👯 I'm looking to collaborate with other content creators
-- ☑️ 2024 Goals: Become a Junior Developer
+- ☑️ 2025 Goals: Deploy high-quality, impactful web development projects that enhance user experiences and contribute to improving users' daily lives. Aim to create innovative, user-centered solutions that make a positive difference and demonstrate consistent growth in technical skills and project management.
 - ⚡️ Fun fact: I'm also a physician and I really love coffee
 
 
