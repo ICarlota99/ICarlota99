@@ -3,7 +3,7 @@
 ## 💻 Junior web developer learning the ropes of the tech world. Excited to connect and learn from others!
 - 🔭 I'm currently working on personal projects
 - 👯 I'm looking to collaborate with other developers
-- ☑️ 2025 Goals: Deploy high-quality, impactful web development projects that enhance user experiences and contribute to improving users' daily lives. Aim to create innovative, user-centered solutions that make a positive difference and demonstrate consistent growth in technical skills and project management.
+- ☑️ 2026 Goals: Deploy high-quality, impactful web development projects that enhance user experiences and contribute to improving users' daily lives. Aim to create innovative, user-centered solutions that make a positive difference and demonstrate consistent growth in technical skills and project management.
 - ⚡️ Fun fact: I'm also a physician and I really love coffee
 
 
