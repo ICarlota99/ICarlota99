@@ -1,17 +1,22 @@
-# 👋 Hi, I'm Char - aka ICarlota99 👩🏻‍💻
+# 👋 Hi, I'm Char (ICarlota99)
 
-💻 **Junior Web Developer** | 🩺 **Physician** | ☕ **Coffee Lover**
+💻 Junior Full-Stack Developer | 🩺 Physician  
+Building user-focused web applications with real-world impact.
 
-## 💻 Junior web developer learning the ropes of the tech world. Excited to connect and learn from others!
-Passionate about building meaningful, user-centered applications that improve everyday life. I enjoy learning by building and continuously refining both my technical and problem-solving skills.
+---
+
+## 🌐 Portfolio
+🔗 **Live:** https://icarlota99.github.io/ICarlota-portfolio/
+
+A curated space where I showcase my projects, skills, and growth as a developer.
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building **personal web development projects**
-- 🤝 Open to **collaborations** and learning from other developers
-- 🎯 **2026 Goal:** Ship high-quality, impactful projects that enhance user experience and solve real-world problems
-- ⚡ Fun fact: I combine **medicine + tech**, and I *really* love coffee
+- 🔭 Currently building personal projects to sharpen my full-stack skills  
+- 🤝 Open to collaboration and learning opportunities  
+- 🎯 2026 Goal: Ship high-quality, impactful applications that improve everyday life  
+- ⚡ Background in medicine, bringing a **problem-solving + human-centered mindset** to tech  
 
 ---
 
@@ -60,33 +65,43 @@ Passionate about building meaningful, user-centered applications that improve ev
 
 ---
 
+---
+
+## 📌 Featured Projects
+
+### 🐾 PetPal  
+Full-stack web app to manage pet health and records (logs, vaccines, weight tracking).  
+**Tech:** Flask · SQLAlchemy · JavaScript · Bootstrap  
+
+🔗 Demo video: [https://petpal ](https://youtu.be/3xJQLtmwenM?feature=shared) 
+📂 Repo: [https://github.com/ICarlota99/petpal  ](https://github.com/ICarlota99/Pet-Care-app)
+
+👉 Key Feature: Structured pet health tracking system with logs and history  
+
+---
+
+### 🍦 'Heladerías Aloha' - E-Commerce Ice Cream Shop
+E-commerce website for a real ice cream shop with WhatsApp order integration.  
+**Tech:** React · JavaScript · Bootstrap  
+
+🔗 Live: [https://heladerias-aloha ](https://heladeriasaloha-madryn.vercel.app) 
+📂 Repo: [https://github.com/ICarlota99/aloha](https://github.com/ICarlota99/heladeriasaloha_madryn)  
+
+👉 Key Feature: Functional shopping cart with real-time order flow via WhatsApp API  
+
+---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-dusky-rho.vercel.app/api?username=ICarlota99&theme=react&hide_border=false&count_private=false" />
-  <img height="170" src="https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&layout=compact&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ICarlota99&theme=react" />
-</p>
+<a href="https://github.com/ICarlota99/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api?username=ICarlota99&theme=react&hide_border=false&include_all_commits=false&count_private=false" /> </a> <a href="https://github.com/ICarlota99/convoychat"> <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&layout=pie&show_icons=true&theme=react" /> </a> ![](https://github-readme-streak-stats.herokuapp.com/?user=ICarlota99&theme=react&hide_border=false)<br/>
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ICarlota99&theme=react&margin-w=10" />
-</p>
+## 📫 Connect with Me
+- GitHub: https://github.com/ICarlota99
+- Email: k431999@gmail.com
+- LinkedIn: https://linkedin.com/in/icarlota99
 
 ---
 
-## 📌 Featured Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ICarlota99&limit=5&theme=react&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ICarlota99&label=Profile%20Views&icon=5&pretty=true" />
-</p>
+⭐ *Always learning, always building.*
