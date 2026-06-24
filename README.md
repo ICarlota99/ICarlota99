@@ -93,7 +93,7 @@ E-commerce website for a real ice cream shop with WhatsApp order integration.
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/ICarlota99/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api?username=ICarlota99&theme=react&hide_border=false&include_all_commits=false&count_private=false" /> </a> <a href="https://github.com/ICarlota99/convoychat"> <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&layout=pie&show_icons=true&theme=react" /> </a> ![](https://github-readme-streak-stats.herokuapp.com/?user=ICarlota99&theme=react&hide_border=false)<br/>
+<a href="https://github.com/ICarlota99/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api?username=ICarlota99&theme=react&hide_border=false&include_all_commits=true&count_private=true" /> </a> <a href="https://github.com/ICarlota99/convoychat"> <img height=200 align="center" src="https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ICarlota99&layout=pie&show_icons=true&theme=react" /> </a> ![](https://github-readme-streak-stats.herokuapp.com/?user=ICarlota99&theme=react&hide_border=false)<br/>
 
 ---
 
